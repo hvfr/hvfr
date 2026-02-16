@@ -1,9 +1,5 @@
 <div align="center">
-  <img width="200px" src="90b5225541ec44dc081307b69cb61d9c.gif" />
-  <br>
-  <h2>aurelia</h2>
-</div>
-<br>
+  <img width="300px" src="90b5225541ec44dc081307b69cb61d9c.gif" />
 
 <h2 align="center" style="color: #FFFFFF;">alt</h2>
 
