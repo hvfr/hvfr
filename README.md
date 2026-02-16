@@ -1,6 +1,6 @@
-<h2 align="center" style="color: #FFFFFF;">aurelia</h2>
+<h2 align="center" style="color: #FFC5D3;">aurelia</h2>
 
-<h2 align="center" style="color:#FFFFFF;">alt</h2>
+<h2 align="center" style="color:#FFC5D3;">alt</h2>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hvfr&theme=tokyonight" alt="GitHub Streak" />
 
