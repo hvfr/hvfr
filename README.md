@@ -2,6 +2,6 @@
 
 <h2 align="center" style="color: #FFFFFF;">alt</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=hvfr&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hvfr&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hvfr&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hvfr&theme=tokyonight" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hvfr&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
